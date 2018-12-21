@@ -1,6 +1,6 @@
 {
   "name": "react-with-styles",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "description": "",
   "main": "lib/withStyles.js",
   "directories": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/airbnb/react-with-styles.git"
+    "url": "git+https://github.com/caseymorrisus/react-with-styles.git"
   },
   "keywords": [
     "react",
